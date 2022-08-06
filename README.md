@@ -1,4 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fa7bdnadaax2ot9y/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-10-1-symbols-iterators/branch/master)
 
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
